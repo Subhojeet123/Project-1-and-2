@@ -1,2 +1,2 @@
-# Project-1-and-2
+# Internship project 1 and project 2
 Data Analytics with Python Code
